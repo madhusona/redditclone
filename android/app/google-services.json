@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "424510482583",
+    "project_id": "reddit-5b24e",
+    "storage_bucket": "reddit-5b24e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424510482583:android:459cf521f44c379aa361d2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424510482583-cvnir1qohkkomc64mjn0q8f37qhhv16u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZnuvraUneiifp9a5KUqOxLVwFzo__7H8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424510482583-cvnir1qohkkomc64mjn0q8f37qhhv16u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
