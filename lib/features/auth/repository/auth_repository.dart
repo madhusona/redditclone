@@ -11,6 +11,8 @@ import 'package:fpdart/fpdart.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 import 'package:flutter/foundation.dart';
 
+
+
 final authRepositoryProvider = Provider((ref) => AuthRepository(
     firestore: ref.read(firestoreProvider),
     auth: ref.read(authProvider),
